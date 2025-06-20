@@ -8,6 +8,13 @@ A **cross-platform expense tracking application** built with Flutter, enabling u
 
 ---
 
+## 📸 Screenshots
+
+### 📱 Mobile View
+
+![Mobile UI](https://github.com/khushbu0810/Expense-Tracker/blob/master/1000031271.jpg)
+
+
 ## 🚀 Key Features
 
 - 🧾 **Form-driven Expense Input**: Capture title, amount, category, and date.
