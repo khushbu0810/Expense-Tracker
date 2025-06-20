@@ -12,7 +12,7 @@ A **cross-platform expense tracking application** built with Flutter, enabling u
 
 ### 📱 Mobile View
 
-<img src="https://github.com/khushbu0810/Expense-Tracker/blob/master/1000031271.jpg?raw=true" alt="Mobile UI" width="250"/>
+<img src="https://github.com/khushbu0810/Expense-Tracker/blob/master/1000031271.jpg?raw=true" alt="Mobile UI" width="250" height="500"/>
 
 
 ## 🚀 Key Features
